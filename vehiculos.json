@@ -1,0 +1,130 @@
+{
+    "__class__": "ListaVehiculos",
+    "vehiculos": [
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "mod": "Gol",
+                "cant": 2,
+                "col": "Rojo",
+                "pre": 55000,
+                "ver": "full"
+            }
+        },
+        {
+            "__class__": "VehiculoUsado",
+            "__atributos__": {
+                "mod": "Classic",
+                "cant": 4,
+                "col": "Verde",
+                "pre": 70000,
+                "mar": "VolksWagen",
+                "pat": "RT9802",
+                "Y": 2013,
+                "kilo": 15000
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "mod": "Ecosport",
+                "cant": 4,
+                "col": "Fuxia",
+                "pre": 89000,
+                "ver": "base"
+            }
+        },
+        {
+            "__class__": "VehiculoUsado",
+            "__atributos__": {
+                "mod": "Suran",
+                "cant": 2,
+                "col": "Amarillo",
+                "pre": 90000,
+                "mar": "Peugeot",
+                "pat": "WB0917",
+                "Y": 2010,
+                "kilo": 125000
+            }
+        },
+        {
+            "__class__": "VehiculoUsado",
+            "__atributos__": {
+                "mod": "Classic",
+                "cant": 2,
+                "col": "Rosado",
+                "pre": 89820,
+                "mar": "Chevrolet",
+                "pat": "QF9231",
+                "Y": 2018,
+                "kilo": 4000
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "mod": "Fox",
+                "cant": 4,
+                "col": "Azul",
+                "pre": 110000,
+                "ver": "base"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "mod": "Gol",
+                "cant": 2,
+                "col": "Negro",
+                "pre": 105000,
+                "ver": "base"
+            }
+        },
+        {
+            "__class__": "VehiculoUsado",
+            "__atributos__": {
+                "mod": "Palio",
+                "cant": 4,
+                "col": "Naranja",
+                "pre": 78900,
+                "mar": "Peugeot",
+                "pat": "MV4310",
+                "Y": 2020,
+                "kilo": 1500
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "mod": "Focus",
+                "cant": 2,
+                "col": "Gris",
+                "pre": 150000,
+                "ver": "full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "mod": "Gol",
+                "cant": 4,
+                "col": "Azul Oscuro",
+                "pre": 200000,
+                "ver": "full"
+            }
+        },
+        {
+            "__class__": "VehiculoUsado",
+            "__atributos__": {
+                "mod": "Aveo",
+                "cant": 2,
+                "col": "Lila",
+                "pre": 129000,
+                "mar": "Toyota",
+                "pat": "TJ2576",
+                "Y": 2017,
+                "kilo": 105000
+            }
+        }
+    ]
+}
